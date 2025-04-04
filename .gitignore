@@ -1,0 +1,23 @@
+# Node dependencies
+node_modules/
+
+# VSCode build output
+out/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Compiled VSIX packages
+*.vsix
+
+# Env files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode workspace settings
+.vscode/

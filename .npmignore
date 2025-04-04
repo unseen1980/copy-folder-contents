@@ -1,0 +1,26 @@
+# Ignore source files
+src/
+.vscode/
+
+# Ignore tests
+test/
+coverage/
+
+# Ignore build files
+out/
+
+# Ignore node_modules
+node_modules/
+
+# Ignore logs
+*.log
+
+# Ignore VSIX packages
+*.vsix
+
+# Environment files
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
