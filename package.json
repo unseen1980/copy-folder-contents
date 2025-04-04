@@ -3,6 +3,10 @@
   "displayName": "Copy Folder Contents",
   "description": "Copies all file paths and their contents from a selected folder to clipboard.",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unseen1980/copy-folder-contents.git"
+  },
   "engines": {
     "vscode": "^1.70.0"
   },
