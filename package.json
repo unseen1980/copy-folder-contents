@@ -20,8 +20,7 @@
     "commands": [
       {
         "command": "extension.copyFolderContents",
-        "title": "Copy File Paths and Contents",
-        "enablement": "false"
+        "title": "Copy File Paths and Contents"
       }
     ],
     "menus": {
